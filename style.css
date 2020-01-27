@@ -1,0 +1,50 @@
+body {
+    background-color: #2f3035;
+}
+
+.container {
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    height: 118px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(255, 85, 85);
+    height: 40px;
+}
+
+main {
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+h1 {
+    font-size: 84px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+footer {
+    background-color: rgb(118, 209, 106);
+    height: 100px;
+}
